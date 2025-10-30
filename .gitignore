@@ -1,0 +1,12 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore model weights
+*.pt
+*.pth
+
+# Ignore temporary files
+__pycache__/
+*.pyc
+.DS_Store
