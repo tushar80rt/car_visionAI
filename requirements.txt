@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+pillow
+numpy
+python-dotenv
+labellerr_sdk
+crewai
+openai
+streamlit
+scikit-learn
